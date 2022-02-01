@@ -125,5 +125,5 @@ search_button = Button(text="Keresés", width=14, command=search_password)
 search_button.grid(column=2, row=1)
 password_button.grid(column=2, row=3)
 add_button.grid(column=1, row=4, columnspan=2)
-
+# ablak folyamatos frissítése
 window.mainloop()
